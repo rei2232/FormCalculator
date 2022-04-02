@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="DLLCalculator">
+      <HintPath>..\Calculator\DLLCalculator\bin\Debug\net6.0\DLLCalculator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
